@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+* I am a Computer Engineering Student 
 * I like to play Badminton!
 <!--
 **neelbhavsar99/neelbhavsar99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
