@@ -1,7 +1,29 @@
 ### Hi there 👋
 
-* I am a Computer Engineering Student 
-* I like to play Badminton!
+## About Me
+* I'm currently a Computer Engineering Student 💻
+* 💬 Ask me about collaborations for hackathons and side-projects 
+* ⚡ Fun fact: I like to play Badminton and go Biking 🚲 🚲 🚲!
+
+## Most Used Languages
+### Languages
+* Python
+* Java 
+* SQL
+
+### Web Frameworks
+* Django
+* ReactJS
+* NodeJS
+
+### Tools
+* Visual Studio Code
+* Git
+
+
+
+
+
 <!--
 **neelbhavsar99/neelbhavsar99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
