@@ -1,22 +1,22 @@
 ### Hi there 👋
 
-## About Me
+#### About Me
 * I'm currently a Computer Engineering Student 💻
 * 💬 Ask me about collaborations for hackathons and side-projects 
 * ⚡ Fun fact: I like to play Badminton and go Biking 🚲 🚲 🚲!
 
-## Most Used Languages
-### Languages
+#### Most Used Languages
+##### Languages
 * Python
 * Java 
 * SQL
 
-### Web Frameworks
+##### Web Frameworks
 * Django
 * ReactJS
 * NodeJS
 
-### Tools
+##### Tools
 * Visual Studio Code
 * Git
 
