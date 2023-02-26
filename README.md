@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### About Me
-* I'm currently a Computer Engineering Student 💻
+* Computer Engineering Major 💻
 * 💬 Ask me about collaborations for hackathons and side-projects 
 * ⚡ Fun fact: I like to play Badminton and go Biking 🚲 🚲 🚲!
 
