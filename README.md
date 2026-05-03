@@ -5,26 +5,10 @@
 * 💬 Ask me about collaborations for hackathons and side-projects 
 * ⚡ Fun fact: I run marathons, travel the world and love to workout!
 
-#### Most Used Languages
-##### Languages
-* Python
-* Java
-* C++
-* SQL
-
-##### Web Frameworks
-* Flask
-* Django
-* Dropwizard, 
-* ReactJS
-* NodeJS
 
 ##### Tools
 * Visual Studio Code
 * Git
-
-
-
 
 
 <!--
