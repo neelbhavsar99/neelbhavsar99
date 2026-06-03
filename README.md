@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 #### About Me
+* AI Engineer at IBM 
 * Computer Engineering Major 💻
 * 💬 Ask me about collaborations for hackathons and side-projects 
 * ⚡ Fun fact: I run marathons, travel the world and love to workout!
